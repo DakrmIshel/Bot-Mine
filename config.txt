@@ -1,0 +1,6 @@
+owner=457203430193102862
+prefix=Z
+game= ZeroesMc.MCPRO.IO : ZPLAY
+stayinchannel=true
+songinstatus=false
+token=NTgwNTkyODEwNTkyNDM2MjI0.XOXYuw.0gzsGK7GwLN820NiV_T4meH3qv8
